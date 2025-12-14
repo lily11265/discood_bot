@@ -69,7 +69,6 @@ class MyBot(commands.Bot):
 
         # Start Scheduler
         scheduler = AsyncIOScheduler(timezone=pytz.timezone("Asia/Seoul"))
-        scheduler.add_job(increment_daily_values, 'cron', hour=0, minute=0)
         scheduler.add_job(self.refresh_metadata, 'cron', hour=5, minute=0)
         scheduler.add_job(sync_fishing_data, 'cron', hour=5, minute=0)
         scheduler.add_job(sync_gacha_data, 'cron', hour=5, minute=0)
