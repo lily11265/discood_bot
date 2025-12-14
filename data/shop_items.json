@@ -1,0 +1,38 @@
+[
+    {
+        "name": "회복약(H+30)",
+        "price": 10,
+        "quantity": 0,
+        "description": "체력 30을 회복할 수 있는 회복 물품입니다. 유용하게 사용합시다."
+    },
+    {
+        "name": "쟁반(M+1)",
+        "price": 10,
+        "quantity": 30,
+        "description": "멘탈 1개를 회복합니다."
+    },
+    {
+        "name": "해독약",
+        "price": 5,
+        "quantity": 50,
+        "description": "부정적인 효과 1개를 제거합니다. 제거 효과는 자유롭습니다."
+    },
+    {
+        "name": "디버프 약",
+        "price": 1,
+        "quantity": 99,
+        "description": "랜덤으로 이상한 디버프 물약을 구매합니다. 구매 후 사용할때 시스템을 언급해주세요. (효과 랜덤)"
+    },
+    {
+        "name": "초",
+        "price": 5,
+        "quantity": 99,
+        "description": "어둠을 밝히는 초입니다. 많네요."
+    },
+    {
+        "name": "신체포기각서",
+        "price": 5,
+        "quantity": 99,
+        "description": "랜덤한 신체 부위를 잘라드립니다. (머리카락 제외)"
+    }
+]

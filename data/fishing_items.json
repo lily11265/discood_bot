@@ -1,0 +1,1527 @@
+[
+    {
+        "name": "고등어",
+        "price": 2,
+        "description": "빠르게 움직이는 회유성 어종. 떼지어 다니며 잡히기 쉽다."
+    },
+    {
+        "name": "전갱이",
+        "price": 1,
+        "description": "해안가 어디서나 볼 수 있는 생선, 초보 낚시꾼의 친구"
+    },
+    {
+        "name": "도미",
+        "price": 5,
+        "description": "단단한 살과 붉은 비늘이 특징. 축하상에 자주 등장한다."
+    },
+    {
+        "name": "우럭",
+        "price": 3,
+        "description": "바위틈을 좋아하는 사납지만 흔한 어종"
+    },
+    {
+        "name": "붕어",
+        "price": 2,
+        "description": "호수와 강 어디에서나 살며 낚시 기본 교과서... 잠깐, 여기 바다인데!?"
+    },
+    {
+        "name": "쓰레기",
+        "price": 0,
+        "description": "꽝!"
+    },
+    {
+        "name": "쓰레기",
+        "price": 0,
+        "description": "꽝!"
+    },
+    {
+        "name": "광어",
+        "price": 2,
+        "description": "두 눈이 한쪽으로 몰려 있는 독특한 물고기. 바닥에서 잠복 사냥을 한다."
+    },
+    {
+        "name": "농어",
+        "price": 1,
+        "description": "빠른 속도로 먹이를 추격하는 강한 포식자"
+    },
+    {
+        "name": "연어",
+        "price": 4,
+        "description": "태어난 강으로 다시 돌아오는 회귀 본능으로 유명하다. 그리고 맛있다."
+    },
+    {
+        "name": "강꼬치고기",
+        "price": 3,
+        "description": "늘씬한 몸의 매서운 포식자. 물속의 창병. 스타듀밸리가 생각난다."
+    },
+    {
+        "name": "방어",
+        "price": 3,
+        "description": "방어와 대방어의 차이가 뭐죠? 방어가 존나 크면 대방어임."
+    },
+    {
+        "name": "쓰레기",
+        "price": 0,
+        "description": "꽝!"
+    },
+    {
+        "name": "쓰레기",
+        "price": 0,
+        "description": "꽝!"
+    },
+    {
+        "name": "은어",
+        "price": 3,
+        "description": "수박 향이 나는 신기한 민물고기. 여긴 바다라니까?!"
+    },
+    {
+        "name": "대구",
+        "price": 5,
+        "description": "차가운 북쪽 바다를 누비는 대형 어종."
+    },
+    {
+        "name": "철갑상어",
+        "price": 8,
+        "description": "공룡 시대부터 살아온 살아있는 화석. 힘이 워낙 세 낚기 어렵다."
+    },
+    {
+        "name": "쓰레기",
+        "price": 0,
+        "description": "꽝!"
+    },
+    {
+        "name": "양태",
+        "price": 2,
+        "description": "못생겼지만 맛있어요!"
+    },
+    {
+        "name": "팬티",
+        "price": 0,
+        "description": "왜 노란색이죠?"
+    },
+    {
+        "name": "비닐쓰레기",
+        "price": 0,
+        "description": "환경을 보호하세요!"
+    },
+    {
+        "name": "만타가오리",
+        "price": 5,
+        "description": "우아함의 끝, 행운의 물결을 타고 왔다."
+    },
+    {
+        "name": "빙어",
+        "price": 2,
+        "description": "얼음 구멍 아래 숨어 있는 겨울의 보석"
+    },
+    {
+        "name": "학꽁치",
+        "price": 3,
+        "description": "섬광처럼 은색 몸을 날려 튀어오르는 물고기"
+    },
+    {
+        "name": "가자미",
+        "price": 3,
+        "description": "발견되면 한쪽 면만 살짝 구워 먹고 싶어지는 생선"
+    },
+    {
+        "name": "청어",
+        "price": 2,
+        "description": "작고 기름진 회유성 어종. 떼로 다니는 모습이 귀엽다."
+    },
+    {
+        "name": "정어리",
+        "price": 1,
+        "description": "바다 생태계의 필수 물고기. 작지만 존재감은 크다."
+    },
+    {
+        "name": "멸치",
+        "price": 1,
+        "description": "볶아먹고 끓여먹고 튀겨먹고 말려먹고"
+    },
+    {
+        "name": "삼치",
+        "price": 3,
+        "description": "번개처럼 빠른 회유성 어종."
+    },
+    {
+        "name": "금붕어",
+        "price": 1,
+        "description": "누가 바다에 금붕어 풀었어!!!!"
+    },
+    {
+        "name": "숭어",
+        "price": 2,
+        "description": "숭해서 숭어 아닙니다."
+    },
+    {
+        "name": "고래상어",
+        "price": 15,
+        "description": "배 : 가라앉을게"
+    },
+    {
+        "name": "범고래",
+        "price": 20,
+        "description": "범고래 : 니미친거야"
+    },
+    {
+        "name": "쓰레기",
+        "price": 0,
+        "description": "꽝!"
+    },
+    {
+        "name": "거북손",
+        "price": 1,
+        "description": "이게 왜 낚시로 잡히죠"
+    },
+    {
+        "name": "복어",
+        "price": 3,
+        "description": "까드득"
+    },
+    {
+        "name": "은갈치",
+        "price": 5,
+        "description": "칼처럼 생겼다. 생긴 게 성능이다."
+    },
+    {
+        "name": "청보리멸",
+        "price": 1,
+        "description": "빛 반사에 특화된 작은 물고기"
+    },
+    {
+        "name": "쓰레기",
+        "price": 0,
+        "description": "꽝!"
+    },
+    {
+        "name": "줄가자미",
+        "price": 3,
+        "description": "가자미 프랜드"
+    },
+    {
+        "name": "누군가 사용한 딜도",
+        "price": 0,
+        "description": "축축해보인다... 그렇겠지. 바다에서 낚았으니까."
+    },
+    {
+        "name": "조기",
+        "price": 2,
+        "description": "햇반가져와"
+    },
+    {
+        "name": "준치",
+        "price": 1,
+        "description": "뼈가 너무 많아요! 우리아이 칼슘 안주로 제격!"
+    },
+    {
+        "name": "참농어",
+        "price": 4,
+        "description": "농어 중에서도 힘이 가장 으뜸이다."
+    },
+    {
+        "name": "민어",
+        "price": 4,
+        "description": "여름철 귀한 물고기"
+    },
+    {
+        "name": "민대구",
+        "price": 2,
+        "description": "민머리 대구 아닌, 대구 친척. 덜 유명하지만 맛있다."
+    },
+    {
+        "name": "홍가리비",
+        "price": 1,
+        "description": "물고기가 아닌데요?"
+    },
+    {
+        "name": "붉바리",
+        "price": 8,
+        "description": "고급 회감의 제왕."
+    },
+    {
+        "name": "능성어",
+        "price": 6,
+        "description": "비늘이 아름다운 고급 생선"
+    },
+    {
+        "name": "쓰레기",
+        "price": 0,
+        "description": "꽝!"
+    },
+    {
+        "name": "참전복",
+        "price": 2,
+        "description": "전복을 낚시로 낚았다고?"
+    },
+    {
+        "name": "줄전갱이",
+        "price": 1,
+        "description": "줄무늬가 맛있어 보여요."
+    },
+    {
+        "name": "대문어",
+        "price": 5,
+        "description": "안녕 크툴루"
+    },
+    {
+        "name": "쏨뱅이",
+        "price": 3,
+        "description": "침샘에 독이 있어요. 조심!"
+    },
+    {
+        "name": "성대",
+        "price": 3,
+        "description": "날개를 펼치면 화려합니다."
+    },
+    {
+        "name": "참돔",
+        "price": 5,
+        "description": "선홍빛 비늘이 아름다워 인기 많은 어종"
+    },
+    {
+        "name": "메기",
+        "price": 2,
+        "description": "수중에서 진동을 감지해 움직이는 야행성 물고기... 잠깐, 여기 바다인데?"
+    },
+    {
+        "name": "감성돔",
+        "price": 6,
+        "description": "모든 낚시꾼들의 로망. 정말 안잡힙니다."
+    },
+    {
+        "name": "쓰레기",
+        "price": 0,
+        "description": "꽝!"
+    },
+    {
+        "name": "먹장어",
+        "price": 3,
+        "description": "끔찍하게 생겼지만 영양은 최고!"
+    },
+    {
+        "name": "백조기",
+        "price": 2,
+        "description": "깔끔한 임금님의 맛"
+    },
+    {
+        "name": "붉은 개복치",
+        "price": 10,
+        "description": "행운의 붉은 개복치!!"
+    },
+    {
+        "name": "쓰레기",
+        "price": 0,
+        "description": "꽝!"
+    },
+    {
+        "name": "부시리",
+        "price": 5,
+        "description": "방어보다 크면 부시리"
+    },
+    {
+        "name": "대방어",
+        "price": 7,
+        "description": "겨울 별미"
+    },
+    {
+        "name": "쏘가리",
+        "price": 4,
+        "description": "깨끗한 강에만 서식하는 민물의 귀족. 낚기 어렵다."
+    },
+    {
+        "name": "가다랑어",
+        "price": 4,
+        "description": "말리면 아주 딱딱해져요."
+    },
+    {
+        "name": "돌가자미",
+        "price": 3,
+        "description": "단단하고 맛있다."
+    },
+    {
+        "name": "쓰레기",
+        "price": 0,
+        "description": "꽝!"
+    },
+    {
+        "name": "흑돔",
+        "price": 5,
+        "description": "어두운 비늘색이 매혹적인 물고기. 깊은 암초 지대에서만 발견된다."
+    },
+    {
+        "name": "참치",
+        "price": 10,
+        "description": "바다의 전투기. 속도가 비정상적으로 빠르고 체격도 크다."
+    },
+    {
+        "name": "황새치",
+        "price": 10,
+        "description": "창처럼 길게 뻗은 주둥이. 찔리면 아파보인다."
+    },
+    {
+        "name": "흰동가리",
+        "price": 2,
+        "description": "니모!!!!!!!!!"
+    },
+    {
+        "name": "쓰레기",
+        "price": 0,
+        "description": "꽝!"
+    },
+    {
+        "name": "날치",
+        "price": 2,
+        "description": "힘내서 날아올랐는데 하필 선박 위?!"
+    },
+    {
+        "name": "귀신고기",
+        "price": 1,
+        "description": "조금 무서워요"
+    },
+    {
+        "name": "해파리",
+        "price": 1,
+        "description": "물고기는 아니지만 자주 잡힌다."
+    },
+    {
+        "name": "노랑 해파리",
+        "price": 2,
+        "description": "예쁘지만 따가워!"
+    },
+    {
+        "name": "쓰레기",
+        "price": 0,
+        "description": "꽝!"
+    },
+    {
+        "name": "붉은 해파리",
+        "price": 3,
+        "description": "만지면 큰일나요!"
+    },
+    {
+        "name": "보름달물해파리",
+        "price": 1,
+        "description": "몽글몽글 말랑말랑"
+    },
+    {
+        "name": "가시고기",
+        "price": 2,
+        "description": "바다의 고슴도치"
+    },
+    {
+        "name": "쓰레기",
+        "price": 0,
+        "description": "꽝!"
+    },
+    {
+        "name": "큰가리비",
+        "price": 2,
+        "description": "의외로 잘 잡힌다."
+    },
+    {
+        "name": "백합",
+        "price": 2,
+        "description": "레즈"
+    },
+    {
+        "name": "새우",
+        "price": 1,
+        "description": "어디든 있는 국민 간식. 새우!"
+    },
+    {
+        "name": "러버덕",
+        "price": 1,
+        "description": "삑"
+    },
+    {
+        "name": "쓰레기",
+        "price": 0,
+        "description": "꽝!"
+    },
+    {
+        "name": "왕새우",
+        "price": 3,
+        "description": "커졌다! 맛도 강해졌다!"
+    },
+    {
+        "name": "닭새우",
+        "price": 3,
+        "description": "몸집이 특이해 인기가 많다."
+    },
+    {
+        "name": "꽃새우",
+        "price": 4,
+        "description": "색이 화려합니다. 비쌉니다."
+    },
+    {
+        "name": "대게",
+        "price": 5,
+        "description": "게의 귀족"
+    },
+    {
+        "name": "쓰레기",
+        "price": 0,
+        "description": "꽝!"
+    },
+    {
+        "name": "홍게",
+        "price": 4,
+        "description": "대게보단 싸지만 맛이 좋다."
+    },
+    {
+        "name": "랍스터",
+        "price": 7,
+        "description": "사치의 상징"
+    },
+    {
+        "name": "왕바닷가재",
+        "price": 5,
+        "description": "왕크니까 왕맛있다."
+    },
+    {
+        "name": "쓰레기",
+        "price": 0,
+        "description": "꽝!"
+    },
+    {
+        "name": "딱새우",
+        "price": 4,
+        "description": "바다의 딱다구리"
+    },
+    {
+        "name": "벽돌새우",
+        "price": 3,
+        "description": "벽돌 들고 찾아갑니다."
+    },
+    {
+        "name": "쓰레기",
+        "price": 0,
+        "description": "꽝!"
+    },
+    {
+        "name": "까라비네로",
+        "price": 10,
+        "description": "와!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    },
+    {
+        "name": "갯가재",
+        "price": 2,
+        "description": "펀치!"
+    },
+    {
+        "name": "바티노무스",
+        "price": 3,
+        "description": "등각류 안녕~"
+    },
+    {
+        "name": "쓰레기",
+        "price": 0,
+        "description": "꽝!"
+    },
+    {
+        "name": "망둥어",
+        "price": 1,
+        "description": "항상 잡히는 귀찮은 물고기"
+    },
+    {
+        "name": "바둑돌",
+        "price": 1,
+        "description": "이게 왜 여기서 낚이죠?"
+    },
+    {
+        "name": "마른 오징어",
+        "price": 2,
+        "description": "오징어가 왜 말랐죠. 바다에서 낚였는데."
+    },
+    {
+        "name": "쓰레기",
+        "price": 0,
+        "description": "꽝!"
+    },
+    {
+        "name": "갑오징어",
+        "price": 3,
+        "description": "문양이 정말 화려합니다!"
+    },
+    {
+        "name": "꼴뚜기",
+        "price": 1,
+        "description": "국 끓여 드세요."
+    },
+    {
+        "name": "쓰레기",
+        "price": 0,
+        "description": "꽝!"
+    },
+    {
+        "name": "홍민어",
+        "price": 3,
+        "description": "색이 붉어 눈에 띕니다."
+    },
+    {
+        "name": "크라켄 새끼",
+        "price": 10,
+        "description": "@시스템"
+    },
+    {
+        "name": "미역",
+        "price": 1,
+        "description": "국끓여먹자!"
+    },
+    {
+        "name": "쓰레기",
+        "price": 0,
+        "description": "꽝!"
+    },
+    {
+        "name": "구피",
+        "price": 1,
+        "description": "예쁘고 강하다. 번식 머신"
+    },
+    {
+        "name": "몰리",
+        "price": 1,
+        "description": "열대어 입문용. 번식력이 대단합니다."
+    },
+    {
+        "name": "플래티",
+        "price": 1,
+        "description": "형형색색 매력덩어리"
+    },
+    {
+        "name": "엔젤피쉬",
+        "price": 2,
+        "description": "천사같은 이름 속 포악한 싸움꾼"
+    },
+    {
+        "name": "쓰레기",
+        "price": 0,
+        "description": "꽝!"
+    },
+    {
+        "name": "디스커스",
+        "price": 4,
+        "description": "물속의 왕자님. 관리 난이도가 어렵습니다."
+    },
+    {
+        "name": "디스커스팅",
+        "price": 0,
+        "description": "EWWWWWWWWW"
+    },
+    {
+        "name": "베타",
+        "price": 2,
+        "description": "싸움고기, 당신도 질 수 있다!"
+    },
+    {
+        "name": "쓰레기",
+        "price": 0,
+        "description": "꽝!"
+    },
+    {
+        "name": "콘빅트시클리드",
+        "price": 2,
+        "description": "줄무늬가 죄수복 같습니다."
+    },
+    {
+        "name": "오스카",
+        "price": 3,
+        "description": "관상어계의 깡패!"
+    },
+    {
+        "name": "아로와나",
+        "price": 7,
+        "description": "행운의 상징!"
+    },
+    {
+        "name": "쓰레기",
+        "price": 0,
+        "description": "꽝!"
+    },
+    {
+        "name": "비파",
+        "price": 1,
+        "description": "수조 청소부"
+    },
+    {
+        "name": "불가사리",
+        "price": 1,
+        "description": "뚱이"
+    },
+    {
+        "name": "스펀지",
+        "price": 2,
+        "description": "밥"
+    },
+    {
+        "name": "쓰레기",
+        "price": 0,
+        "description": "꽝!"
+    },
+    {
+        "name": "비키니",
+        "price": 1,
+        "description": "저는 흙수저 입니다. 가진 것이라곤 어머니가 물려주신 비키니 한장."
+    },
+    {
+        "name": "체리바비",
+        "price": 1,
+        "description": "빨갛고 너무 예뻐요!"
+    },
+    {
+        "name": "쓰레기",
+        "price": 0,
+        "description": "꽝!"
+    },
+    {
+        "name": "라스보라",
+        "price": 1,
+        "description": "떼로 모이면 반짝반짝."
+    },
+    {
+        "name": "블랙테트라",
+        "price": 2,
+        "description": "검은 드레스를 입은 것 같습니다."
+    },
+    {
+        "name": "모기",
+        "price": 1,
+        "description": "저를 구출해주셨어요. 오늘 밤. 당신에게 갑니다."
+    },
+    {
+        "name": "파쿠",
+        "price": 3,
+        "description": "아마존의 대형 민물고기"
+    },
+    {
+        "name": "쓰레기",
+        "price": 0,
+        "description": "꽝!"
+    },
+    {
+        "name": "피라냐",
+        "price": 4,
+        "description": "고추 물림 사고를 조심하세요."
+    },
+    {
+        "name": "메뚜기",
+        "price": 1,
+        "description": "니가 왜 여기서 나와"
+    },
+    {
+        "name": "배스",
+        "price": 3,
+        "description": "민물 최강 포식자! 잠깐, 여기 바다라니까?!"
+    },
+    {
+        "name": "숏바디 복어",
+        "price": 3,
+        "description": "롱바디 복어도 있나요?"
+    },
+    {
+        "name": "쓰레기",
+        "price": 0,
+        "description": "꽝!"
+    },
+    {
+        "name": "아저씨",
+        "price": 15,
+        "description": "아저씨 : 안녕하십니까? 구해주셔서 감사합니다. (다시 바닷속으로 입수했다.)"
+    },
+    {
+        "name": "월아이",
+        "price": 3,
+        "description": "북미 대형 민물고기!"
+    },
+    {
+        "name": "헤라클레스 장수풍뎅이",
+        "price": 3,
+        "description": "날아갔습니다. (두두두두두두두두....)"
+    },
+    {
+        "name": "블루길",
+        "price": 2,
+        "description": "외래종 파이터. 잡히면 나이스!"
+    },
+    {
+        "name": "동자개",
+        "price": 2,
+        "description": "민물 메기종. 수염이 귀엽습니다."
+    },
+    {
+        "name": "쓰레기",
+        "price": 0,
+        "description": "꽝!"
+    },
+    {
+        "name": "애널플러그",
+        "price": 1,
+        "description": "누군가의 엉덩이에 들어있던 것이겠지..."
+    },
+    {
+        "name": "말벌",
+        "price": 0,
+        "description": "도망쳐!!!!!!!!!!!!!!!!!!!!"
+    },
+    {
+        "name": "전기뱀장어",
+        "price": 3,
+        "description": "이걸로 충전 안됩니다."
+    },
+    {
+        "name": "전기가오리",
+        "price": 4,
+        "description": "충전 안됩니다."
+    },
+    {
+        "name": "쓰레기",
+        "price": 0,
+        "description": "꽝!"
+    },
+    {
+        "name": "우파루파",
+        "price": 5,
+        "description": "너가 왜 여기서 나와"
+    },
+    {
+        "name": "돌고래",
+        "price": 4,
+        "description": "바다의 친구!"
+    },
+    {
+        "name": "해마",
+        "price": 1,
+        "description": "새끼를 품었을까요?"
+    },
+    {
+        "name": "구름고기",
+        "price": 4,
+        "description": "바람과 함께 흩어졌습니다."
+    },
+    {
+        "name": "쓰레기",
+        "price": 0,
+        "description": "꽝!"
+    },
+    {
+        "name": "별가오리",
+        "price": 5,
+        "description": "동시에 밤하늘 위로 올라갔습니다. (낮일시 : 유감)"
+    },
+    {
+        "name": "갯뻘망둥어",
+        "price": 1,
+        "description": "뻘에서만 발견되어야 할텐데..."
+    },
+    {
+        "name": "진주 품은 조개",
+        "price": 8,
+        "description": "반짝반짝"
+    },
+    {
+        "name": "장구벌레",
+        "price": 0,
+        "description": "왜 낚이냐고"
+    },
+    {
+        "name": "쓰레기",
+        "price": 0,
+        "description": "꽝!"
+    },
+    {
+        "name": "강준치",
+        "price": 2,
+        "description": "입이 크고 공격적입니다."
+    },
+    {
+        "name": "거북이",
+        "price": 4,
+        "description": "안녕"
+    },
+    {
+        "name": "플라워혼",
+        "price": 6,
+        "description": "머리가 볼록한 관상어"
+    },
+    {
+        "name": "우무문어",
+        "price": 4,
+        "description": "귀 달린 문어"
+    },
+    {
+        "name": "쓰레기",
+        "price": 0,
+        "description": "귀 달린 문어"
+    },
+    {
+        "name": "타조알",
+        "price": 2,
+        "description": "아주 큰 계란"
+    },
+    {
+        "name": "블루엔젤",
+        "price": 2,
+        "description": "푸른빛이 감성적인 물고기"
+    },
+    {
+        "name": "유두패치",
+        "price": 0,
+        "description": "왜요?"
+    },
+    {
+        "name": "생수",
+        "price": 2,
+        "description": "와! 바다에서 귀한 담수!"
+    },
+    {
+        "name": "쓰레기",
+        "price": 0,
+        "description": "꽝!"
+    },
+    {
+        "name": "길 잃은 펭귄",
+        "price": 5,
+        "description": "펭귄 : 안녕하세요?"
+    },
+    {
+        "name": "체코브루노라미네시스",
+        "price": 2,
+        "description": "이름이 너무 길어요."
+    },
+    {
+        "name": "해룡",
+        "price": 3,
+        "description": "화려해요"
+    },
+    {
+        "name": "플랑크톤",
+        "price": 1,
+        "description": "어쩐지 햄버거를 좋아할 것 같다."
+    },
+    {
+        "name": "쓰레기",
+        "price": 0,
+        "description": "꽝!"
+    },
+    {
+        "name": "황금해파리",
+        "price": 2,
+        "description": "독도 없고 말랑말랑!"
+    },
+    {
+        "name": "범피",
+        "price": 8,
+        "description": "아주 아주 희귀한 희귀한 해파리"
+    },
+    {
+        "name": "숲뿌리해파리",
+        "price": 3,
+        "description": "고급진 식용 해파리. 그러나 독이 있으니 조심!"
+    },
+    {
+        "name": "스티기오메두사",
+        "price": 5,
+        "description": "1000M 심해에 서식하는 해파리, 밝혀진 사실이 거의 없다."
+    },
+    {
+        "name": "감투빗해파리",
+        "price": 3,
+        "description": "사실 해파리가 아닙니다."
+    },
+    {
+        "name": "쓰레기",
+        "price": 0,
+        "description": "꽝!"
+    },
+    {
+        "name": "갯민숭달팽이",
+        "price": 3,
+        "description": "독이 있으니 조심!"
+    },
+    {
+        "name": "복고래",
+        "price": 7,
+        "description": "토리코? 장르 잘못 찾아온 것 같은데?!"
+    },
+    {
+        "name": "자라",
+        "price": 3,
+        "description": "가서 자라"
+    },
+    {
+        "name": "개구리",
+        "price": 2,
+        "description": "개구리가 왜 바다에 있냐고"
+    },
+    {
+        "name": "쓰레기",
+        "price": 0,
+        "description": "꽝!"
+    },
+    {
+        "name": "틸라피아",
+        "price": 3,
+        "description": "은근히 맛있습니다. 야들야들."
+    },
+    {
+        "name": "도라도",
+        "price": 2,
+        "description": "도라도 돌면 안도라도 내가 원하는것은 엘도라도"
+    },
+    {
+        "name": "클리오레",
+        "price": 3,
+        "description": "바다의 천사!"
+    },
+    {
+        "name": "블루탱",
+        "price": 2,
+        "description": "기억력이 3초일 것 같고.. 흰동가리랑 같이 있어야 할 것 같다."
+    },
+    {
+        "name": "쓰레기",
+        "price": 0,
+        "description": "꽝!"
+    },
+    {
+        "name": "오징어",
+        "price": 2,
+        "description": "오동통통해요."
+    },
+    {
+        "name": "곰치",
+        "price": 1,
+        "description": "멍..."
+    },
+    {
+        "name": "무명갈전갱이",
+        "price": 5,
+        "description": "얼굴이 너무 너무 못생겼어요."
+    },
+    {
+        "name": "개복치",
+        "price": 3,
+        "description": "어?... ...갔어."
+    },
+    {
+        "name": "귀상어",
+        "price": 8,
+        "description": "눈싸움 시작!"
+    },
+    {
+        "name": "쓰레기",
+        "price": 0,
+        "description": "꽝!"
+    },
+    {
+        "name": "빨판상어",
+        "price": 6,
+        "description": "선박 위에 붙어있었나?!"
+    },
+    {
+        "name": "초롱아귀",
+        "price": 2,
+        "description": "눈이 초롱초롱, 머리도 초롱초롱."
+    },
+    {
+        "name": "산갈치",
+        "price": 4,
+        "description": "바다의 용"
+    },
+    {
+        "name": "데메니기스",
+        "price": 8,
+        "description": "머리가 투명한 물고기!"
+    },
+    {
+        "name": "실러캔스",
+        "price": 10,
+        "description": "와! 전설물고기!"
+    },
+    {
+        "name": "쓰레기",
+        "price": 0,
+        "description": "꽝!"
+    },
+    {
+        "name": "바다포도",
+        "price": 2,
+        "description": "초장가져와!"
+    },
+    {
+        "name": "말미잘",
+        "price": 1,
+        "description": "흰동가리가 좋아하겠다!"
+    },
+    {
+        "name": "해삼",
+        "price": 2,
+        "description": "오독오독... 이것도 초장가져와!"
+    },
+    {
+        "name": "성게",
+        "price": 3,
+        "description": "바다의 장미!"
+    },
+    {
+        "name": "바다돼지",
+        "price": 2,
+        "description": "돼지!"
+    },
+    {
+        "name": "쓰레기",
+        "price": 0,
+        "description": "꽝!"
+    },
+    {
+        "name": "굴",
+        "price": 2,
+        "description": "고급 식재료!"
+    },
+    {
+        "name": "대왕거거",
+        "price": 8,
+        "description": "엄청 큰 조개! 맛은 없지롱!"
+    },
+    {
+        "name": "앵무조개",
+        "price": 3,
+        "description": "여긴 타고 다닐 수 없어!"
+    },
+    {
+        "name": "흡혈오징어",
+        "price": 3,
+        "description": "시뻘개요"
+    },
+    {
+        "name": "반딧불오징어",
+        "price": 4,
+        "description": "바다의 빛을 전달해줘!"
+    },
+    {
+        "name": "쓰레기",
+        "price": 0,
+        "description": "꽝!"
+    },
+    {
+        "name": "따개비",
+        "price": 1,
+        "description": "따개비 괴담이 한때 유행이었죠..."
+    },
+    {
+        "name": "보리새우",
+        "price": 3,
+        "description": "보리새우, 보리맛이 날까?"
+    },
+    {
+        "name": "투구게",
+        "price": 4,
+        "description": "와! 살아있는 화석!"
+    },
+    {
+        "name": "멍게",
+        "price": 3,
+        "description": "달큰하고 쓴 맛... 어른의 맛... 술가져와!"
+    },
+    {
+        "name": "해로동혈",
+        "price": 2,
+        "description": "비너스의 꽃바구니"
+    },
+    {
+        "name": "흑백 도미",
+        "price": 2,
+        "description": "검고 하얀 반점이 매력쟁이!"
+    },
+    {
+        "name": "쓰레기",
+        "price": 0,
+        "description": "꽝!"
+    },
+    {
+        "name": "큰입우럭",
+        "price": 2,
+        "description": "입좀 봐..."
+    },
+    {
+        "name": "타폰",
+        "price": 2,
+        "description": "하얗고 가는 물고기가 아름다운 법"
+    },
+    {
+        "name": "노랑꼬리쥐돔",
+        "price": 3,
+        "description": "보라색과 노란색이 섞인 예쁜 물고기"
+    },
+    {
+        "name": "맥쿼리농어",
+        "price": 4,
+        "description": "맥크리 농어 아닙니다."
+    },
+    {
+        "name": "블롭피시",
+        "price": 2,
+        "description": "어.. 못생겼어..."
+    },
+    {
+        "name": "폐어",
+        "price": 15,
+        "description": "전설 물고기다!!"
+    },
+    {
+        "name": "쓰레기",
+        "price": 0,
+        "description": "꽝!"
+    },
+    {
+        "name": "보라성게",
+        "price": 1,
+        "description": "와! 보라색 성게!"
+    },
+    {
+        "name": "바다사자",
+        "price": 3,
+        "description": "우선 미안하다고 해 볼까?"
+    },
+    {
+        "name": "바다표범",
+        "price": 3,
+        "description": "우선 미안하다고 해 볼까?"
+    },
+    {
+        "name": "듀공",
+        "price": 4,
+        "description": "우선 미안하다고 해 볼까?"
+    },
+    {
+        "name": "매너티",
+        "price": 4,
+        "description": "우선 미안하다고 해 볼까?"
+    },
+    {
+        "name": "레몬상어",
+        "price": 3,
+        "description": "이름이 너무 상큼해"
+    },
+    {
+        "name": "쓰레기",
+        "price": 0,
+        "description": "꽝!"
+    },
+    {
+        "name": "벼룩",
+        "price": 1,
+        "description": "넌 뭐야?"
+    },
+    {
+        "name": "인어",
+        "price": 15,
+        "description": "인어 : 인간 미쳤네"
+    },
+    {
+        "name": "반짝도미",
+        "price": 4,
+        "description": "햇빛을 받으면 글리터처럼 반짝여서 낚시꾼들이 욕을 한다."
+    },
+    {
+        "name": "고무풍선복",
+        "price": 3,
+        "description": "스트레스를 받으면 공기 대신 헬륨이 들어찹니다... 어? 재밌겠다!"
+    },
+    {
+        "name": "조용한 방울고기",
+        "price": 2,
+        "description": "꼬리에 방울이 달렸는데 방울소리는 안나는 물고기 입니다."
+    },
+    {
+        "name": "진상참치",
+        "price": 5,
+        "description": "걸리면 당신에게 들이박습니다. 아야! Hp -5"
+    },
+    {
+        "name": "쓰레기",
+        "price": 0,
+        "description": "꽝!"
+    },
+    {
+        "name": "붐볼",
+        "price": 0,
+        "description": "붐볼은 스킬 [대폭발] 을 사용했다. 펑!!! 체력 -99"
+    },
+    {
+        "name": "불타는 멸치",
+        "price": 3,
+        "description": "멸치가 따뜻해..."
+    },
+    {
+        "name": "유성치어",
+        "price": 7,
+        "description": "바닷속의 유성들, 미세하게 꼬리가 탄 것 같다."
+    },
+    {
+        "name": "숫돌송사리",
+        "price": 3,
+        "description": "지느러미가 사포처럼 거칠다."
+    },
+    {
+        "name": "심해고래벌레",
+        "price": 4,
+        "description": "심해에서 잡힌다는 심해고래벌레. 고래인지 벌레인지 밝혀진 바 없다."
+    },
+    {
+        "name": "딸기가시어",
+        "price": 2,
+        "description": "선분홍색과 노란 점박이가 딸기를 연상시킨다."
+    },
+    {
+        "name": "콩알치",
+        "price": 1,
+        "description": "콩알만한 작은 물고기... ..."
+    },
+    {
+        "name": "쓰레기",
+        "price": 0,
+        "description": "꽝!"
+    },
+    {
+        "name": "젤리돔",
+        "price": 4,
+        "description": "달콤한 향기가 나는 젤리돔. 말랑말랑. 건질 때 조심!"
+    },
+    {
+        "name": "구름메기",
+        "price": 5,
+        "description": "물속에서 퐁퐁 부유하며 뿌연 안개를 뿜는다."
+    },
+    {
+        "name": "돌고래흉내치",
+        "price": 3,
+        "description": "돌고래 흉내를 내는 물고기, 닮긴 했다. 더 못생겼을 뿐..."
+    },
+    {
+        "name": "안면어",
+        "price": 3,
+        "description": "당신의 얼굴을 가진 물고기."
+    },
+    {
+        "name": "새벽별도미",
+        "price": 8,
+        "description": "바다 깊은 곳에서 잡히는 도미. 별을 품어 발광한다."
+    },
+    {
+        "name": "미니포자문어",
+        "price": 3,
+        "description": "포자처럼 둥둥 떠다니는 작은 문어"
+    },
+    {
+        "name": "쓰레기",
+        "price": 0,
+        "description": "꽝!"
+    },
+    {
+        "name": "백야고기",
+        "price": 4,
+        "description": "밤에도 낮처럼 빛나는 비늘을 가진 비늘"
+    },
+    {
+        "name": "쇠돌배기",
+        "price": 5,
+        "description": "금속 수준으로 단단한 물고기. 낚시줄이 용케 버텨주었군요!"
+    },
+    {
+        "name": "버블버기",
+        "price": 3,
+        "description": "거품을 터트리는 장난꾸러기 물고기"
+    },
+    {
+        "name": "신난 광어",
+        "price": 2,
+        "description": "신났다."
+    },
+    {
+        "name": "쌍둥이연어",
+        "price": 3,
+        "description": "쌍둥이 자리와 물고기 자리가 현피떠서 만들어졌다는 전설의 물고기"
+    },
+    {
+        "name": "스팀문어",
+        "price": 4,
+        "description": "몸 내부에서 열을 가열하여 뜨거운 거품으로 공격하는 문어. 아얏!"
+    },
+    {
+        "name": "쓰레기",
+        "price": 0,
+        "description": "꽝!"
+    },
+    {
+        "name": "시스템",
+        "price": 10,
+        "description": "안녕하세요? 으아악 뭐야? 놔주세요"
+    },
+    {
+        "name": "코기어",
+        "price": 5,
+        "description": "다리가 짧아요. 잠깐, 물고기가 다리...?"
+    },
+    {
+        "name": "바다유령",
+        "price": 4,
+        "description": "악몽을 꿀 것 같아..."
+    },
+    {
+        "name": "보물상자",
+        "price": 100,
+        "description": "어!?"
+    },
+    {
+        "name": "낮잠가오리",
+        "price": 2,
+        "description": "눈을 감고 부유하는 가오리"
+    },
+    {
+        "name": "쥐",
+        "price": 1,
+        "description": "바다에 쥐가 왜 있어?"
+    },
+    {
+        "name": "고라니",
+        "price": 2,
+        "description": "가끔 바다를 건너는 고라니가 있다고 합니다."
+    },
+    {
+        "name": "쓰레기",
+        "price": 0,
+        "description": "꽝!"
+    },
+    {
+        "name": "에스터에그",
+        "price": 5,
+        "description": "부활절 달걀이라는 뜻. (썩은내가 납니다.)"
+    },
+    {
+        "name": "배추",
+        "price": 2,
+        "description": "김장 배추가 왜..."
+    },
+    {
+        "name": "잉어킹",
+        "price": 5,
+        "description": "갸라도스로 진화시켜보세요"
+    },
+    {
+        "name": "달그림자메기",
+        "price": 2,
+        "description": "몸통이 어두운 파동으로 깜박이고 있습니다."
+    },
+    {
+        "name": "태초뿔돔",
+        "price": 3,
+        "description": "고래된 고래의 뿔이 몸에 붙은 고대종"
+    },
+    {
+        "name": "세발치",
+        "price": 4,
+        "description": "삼각대다."
+    },
+    {
+        "name": "쓰레기",
+        "price": 0,
+        "description": "꽝!"
+    },
+    {
+        "name": "얼음고기",
+        "price": 3,
+        "description": "얼었다."
+    },
+    {
+        "name": "길치",
+        "price": 5,
+        "description": "여기가 어딘가요?"
+    },
+    {
+        "name": "틀니",
+        "price": 2,
+        "description": "건치네요!"
+    },
+    {
+        "name": "충치",
+        "price": 3,
+        "description": "아야! Hp -10"
+    },
+    {
+        "name": "나미",
+        "price": 5,
+        "description": "리그 오브 레전드에서 오셨습니다."
+    },
+    {
+        "name": "피즈",
+        "price": 5,
+        "description": "삼지창을 들고... ...롤에서 오셨습니다."
+    },
+    {
+        "name": "브레지어",
+        "price": 0,
+        "description": "착용하실래요?"
+    },
+    {
+        "name": "마법의소라고둥님",
+        "price": 2,
+        "description": "그래."
+    },
+    {
+        "name": "마법의소라고둥님",
+        "price": 2,
+        "description": "아니"
+    },
+    {
+        "name": "마법의소라고둥님",
+        "price": 2,
+        "description": "다시 생각해"
+    },
+    {
+        "name": "마법의소라고둥님",
+        "price": 2,
+        "description": "하지마"
+    },
+    {
+        "name": "마법의소라고둥님",
+        "price": 2,
+        "description": "실행해"
+    },
+    {
+        "name": "마법의소라고둥님",
+        "price": 2,
+        "description": "안돼"
+    },
+    {
+        "name": "마법의소라고둥님",
+        "price": 2,
+        "description": "가만있어"
+    },
+    {
+        "name": "마법의소라고둥님",
+        "price": 2,
+        "description": "좋아"
+    },
+    {
+        "name": "마법의소라고둥님",
+        "price": 2,
+        "description": "그럼"
+    },
+    {
+        "name": "마법의소라고둥님",
+        "price": 2,
+        "description": "나빠"
+    },
+    {
+        "name": "마법의소라고둥님",
+        "price": 2,
+        "description": "꺼져"
+    },
+    {
+        "name": "마법의소라고둥님",
+        "price": 2,
+        "description": "똥이나 싸"
+    }
+]

@@ -1,0 +1,226 @@
+[
+    {
+        "name": "아몬드 초콜릿",
+        "description": "달콤 쌉싸름한 빠져버린 그맛"
+    },
+    {
+        "name": "체크 셔츠",
+        "description": "공대생이 되어야 할 것 같고."
+    },
+    {
+        "name": "프렌치 메이드복",
+        "description": "에로에로 메이드복"
+    },
+    {
+        "name": "어항",
+        "description": "물고기를 넣을 수 있어 보입니다."
+    },
+    {
+        "name": "니트 조끼",
+        "description": "보들보들, 따뜻해 보입니다."
+    },
+    {
+        "name": "스노우볼",
+        "description": "안에 오두막과 하얀 강아지가 있습니다."
+    },
+    {
+        "name": "여우 피규어",
+        "description": "네모네모 빔을 맞은 여우 피규어"
+    },
+    {
+        "name": "황제펭귄 피규어",
+        "description": "귀엽게 생겼습니다."
+    },
+    {
+        "name": "물고기 떡밥",
+        "description": "물고기가 좋아합니다."
+    },
+    {
+        "name": "닌텐도 스위치2",
+        "description": "고장나 있습니다."
+    },
+    {
+        "name": "몬스터볼",
+        "description": "이게 왜 있죠?"
+    },
+    {
+        "name": "노란색 개구리 피규어",
+        "description": "진짜같은데?!"
+    },
+    {
+        "name": "금붕어가 되는 물약",
+        "description": "왜요?"
+    },
+    {
+        "name": "똑딱이 손난로",
+        "description": "물에 넣어서 재사용이 가능합니다."
+    },
+    {
+        "name": "머그컵",
+        "description": "무언가를 담아서 마십시다."
+    },
+    {
+        "name": "치와와가 되는 물약",
+        "description": "치와와가 됩니다."
+    },
+    {
+        "name": "빅토리안 메이드복",
+        "description": "정석 메이드복"
+    },
+    {
+        "name": "손톱이 길어지는 물약 (15cm)",
+        "description": "퀸이 되어보세요"
+    },
+    {
+        "name": "입에서 거품 나오는 물약",
+        "description": "기절 직전 게 같습니다."
+    },
+    {
+        "name": "씹탑물약",
+        "description": "모두가 w로 주저앉게 될 것입니다."
+    },
+    {
+        "name": "얼굴이 시뻘개지는 물약",
+        "description": "술취한 아저씨 톤"
+    },
+    {
+        "name": "목이 길어지는 물약",
+        "description": "약 1M정도."
+    },
+    {
+        "name": "호러 메이드복",
+        "description": "말이 호러지 피 조금 묻고 너덜너덜합니다."
+    },
+    {
+        "name": "사이버 메이드복",
+        "description": "그니까 이 기계복장은 뭐냐고"
+    },
+    {
+        "name": "고양이가 되는 물약",
+        "description": "정말 귀엽겠어요."
+    },
+    {
+        "name": "져지 메이드복",
+        "description": "요즘 가장 유행하는 메이드복!"
+    },
+    {
+        "name": "귀마개",
+        "description": "귀가 따뜻해져요..."
+    },
+    {
+        "name": "Queen 물약",
+        "description": "여왕처럼 행동하세요! 됴각됴각 걷고, 우아하게 명령하세요!"
+    },
+    {
+        "name": "화이트 셔츠",
+        "description": "기본적인 셔츠입니다."
+    },
+    {
+        "name": "일본풍 메이드복",
+        "description": "일본풍 메이드복 소매가 넓습니다."
+    },
+    {
+        "name": "장발 물약",
+        "description": "머리카락이 길어집니다."
+    },
+    {
+        "name": "블랙 터틀넥",
+        "description": "인기 많은 옷이죠."
+    },
+    {
+        "name": "개가 되는 물약",
+        "description": "개(동물) 이 되어보세요!"
+    },
+    {
+        "name": "오버사이즈 후드티",
+        "description": "색깔과 모양은 자유롭게!"
+    },
+    {
+        "name": "2P 물약",
+        "description": "회까닥!"
+    },
+    {
+        "name": "밀리터리 메이드복",
+        "description": "나라도 지켜야 하는데 메이드복도 입어야 한다고?"
+    },
+    {
+        "name": "다람쥐",
+        "description": "귀엽다"
+    },
+    {
+        "name": "도토리",
+        "description": "다람쥐 먹이"
+    },
+    {
+        "name": "똥(모형)",
+        "description": "소프트 아이스크림을 닮았어요."
+    },
+    {
+        "name": "뜨개질 세트",
+        "description": "무언가를 떠 봅시다."
+    },
+    {
+        "name": "동물 파자마 세트",
+        "description": "포근포근 귀여워요"
+    },
+    {
+        "name": "좀비 물약",
+        "description": "좀비가 됩니다. 물면 감염시킵니다. (정신머리는 그대로!)"
+    },
+    {
+        "name": "의자",
+        "description": "가구입니다. 방 안에 둬 볼까요?"
+    },
+    {
+        "name": "비누",
+        "description": "라벤더 향"
+    },
+    {
+        "name": "쓰레기통",
+        "description": "내 집이다!"
+    },
+    {
+        "name": "웨딩드레스",
+        "description": "결혼 축하합니다!"
+    },
+    {
+        "name": "샌즈 물약",
+        "description": "한쪽 눈이 빛나고 입에서 드드드 소리가 난다."
+    },
+    {
+        "name": "ଳ",
+        "description": "해파리"
+    },
+    {
+        "name": "케챱",
+        "description": "새콤달콤"
+    },
+    {
+        "name": "웨딩 반지 (왼쪽)",
+        "description": "내 짝은 어디 있나요."
+    },
+    {
+        "name": "그\" 그\" 그\" 물약",
+        "description": "죠죠걸음으로 걷는다."
+    },
+    {
+        "name": "웨딩 반지 (오른쪽)",
+        "description": "내 짝은 어디있나요."
+    },
+    {
+        "name": "미니 스커트 메이드복",
+        "description": "재패니즈 메이드복"
+    },
+    {
+        "name": "인간이 되는 물약",
+        "description": "인간이 마시면요? 아무일도 없었다."
+    },
+    {
+        "name": "수영복 메이드복",
+        "description": "이게뭔데"
+    },
+    {
+        "name": "차이나 메이드복",
+        "description": "중화풍 메이드복"
+    }
+]

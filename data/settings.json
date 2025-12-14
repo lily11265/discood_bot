@@ -1,0 +1,10 @@
+{
+    "fishing_cooldown_hours": 1,
+    "price_multiplier_mode": false,
+    "gacha_cooldown_hours": 0,
+    "gacha_cost": 10,
+    "bribe_fail_rate": 1.0,
+    "shop_open": true,
+    "library_cooldown_hours": 0,
+    "library_open": true
+}
